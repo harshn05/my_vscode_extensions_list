@@ -27,7 +27,6 @@ johnpapa.winteriscoming
 kdl-org.kdl
 kevinrose.vsc-python-indent
 ktnrg45.vscode-cython
-llvm-vs-code-extensions.vscode-clangd
 mechatroner.rainbow-csv
 mhutchie.git-graph
 ms-azuretools.vscode-containers
