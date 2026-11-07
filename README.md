@@ -1,0 +1,2 @@
+# my_vscode_extensions_list
+my_vscode_extensions
