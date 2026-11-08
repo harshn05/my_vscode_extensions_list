@@ -74,7 +74,6 @@ tinkertrain.theme-panda
 tomoki1207.pdf
 usernamehw.errorlens
 vadimcn.vscode-lldb
-vscode-icons-team.vscode-icons
 wesbos.theme-cobalt2
 whizkydee.material-palenight-theme
 yzane.markdown-pdf
